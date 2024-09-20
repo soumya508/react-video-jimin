@@ -23,7 +23,7 @@ class VideoPlayer extends Component {
       <div className="video-container">
         <h1 className="heading">Video Player</h1>
         <h1 className="heading2">
-          Jimin at SBS Music Awards short and sweet Interview!!
+          Jimin at SBS Music Awards short and sweet Interview!! Jimin is cutie sexy lovely!
         </h1>
         <div className="responsive-container">
           <ReactPlayer url={videoURL} controls volume={1} playing={isPlaying} />
